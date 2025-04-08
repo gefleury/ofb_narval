@@ -1,0 +1,20 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,true_sispea_value,true_pdf_value,final_answer,filtered_answer_list,clean_answer_list,concat_answer_list
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,D201.0,340.0,340.0,340.0,[340.0],[340.0],['340']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,D202.0,0.0,0.0,0.0,"[0.0, 'je ne trouve pas']","[0.0, 'je ne trouve pas']","['0', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,D203.0,0.0,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,D204.0,1.72,,1.15,"[1.15, 1.15, 'je ne trouve pas']","['je ne trouve pas', 1.15, 108.54, 1.15, 108.54]","[""Selon l'extrait, je ne trouve pas"", '1,15 EUR/m3', 'Je ne trouve pas.', '108.54 EUR', ""Selon l'extrait, je ne trouve pas"", '1,15 EUR/m3', 'Je ne trouve pas.', '108.54 EUR']"
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P201.1,100.0,,57.0,"[57.0, 'je ne trouve pas']","['je ne trouve pas', 57.0]","['Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', '57%']"
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P202.2B,82.0,70.0,70.0,"[70.0, 70.0]","[70.0, 70.0]","['70 points sur 100.', '70 points']"
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P203.3,100.0,100.0,100.0,"[100.0, 'je ne trouve pas']","['je ne trouve pas', 100.0]","['Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', '100%', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P204.3,100.0,100.0,100.0,[100.0],[100.0],['100%']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P205.3,100.0,100.0,100.0,[100.0],[100.0],['100%']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P206.3,,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P207.0,0.0,0.0,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P251.1,0.0,,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P252.2,0.0,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P253.2,5.1,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P254.3,,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P255.3,0.0,,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P256.2,4.4,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P257.0,7.23,,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Genouilly_AC_2021.pdf,P258.1,0.0,,je ne trouve pas,[],[],[]

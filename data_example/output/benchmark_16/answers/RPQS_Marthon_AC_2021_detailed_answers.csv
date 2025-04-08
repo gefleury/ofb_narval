@@ -1,0 +1,45 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,question,keyword_regex,relevant_pages,answer_list
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D201.0,Quel le nombre d'habitants desservis par le réseau d'assainissement collectif (D201.0),\bhabitants?\b,"[3, 5, 12]","['568', 'Je ne trouve pas.', '568']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D201.0,Quelle est la valeur de l'indicateur D201.0,\bD201.0s?\b,[12],"[""La valeur de l'indicateur D201""]"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D202.0,Quel est le nombre d'autorisations de déversement d'effluents d'établissements industriels (D202.0),\bautorisations?\b,[12],['0']
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D202.0,Quelle est la valeur de l'indicateur D202.0,\bD202.0s?\b,[12],['0']
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D203.0,Quelle est la quantité de boues évacuées (D203.0),\bboues?\b,"[2, 5, 10, 12]","['Je ne trouve pas.', '0,00 tMS', 'Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D203.0,Quelle est la valeur de l'indicateur D203.0,\bD203.0s?\b,"[5, 12]","['0,00', '0,00']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D204.0,Quel est le prix au m3 du service d'assainissement de l'eau,\bprixs?\b,"[0, 12]","['Je ne trouve pas.', '2,26 EUR/m3']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D204.0,Quel est le prix au m3 du service d'assainissement de l'eau (D204.0),\bprixs?\b,"[0, 12]","[""Selon l'extrait, je ne trouve pas"", '2,26 EUR/m3']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,D204.0,Quelle est la valeur de l'indicateur D204.0,\bD204.0s?\b,[12],"['2,26 EUR/m3']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P201.1,Quel est le pourcentage d'abonnés desservis par le réseau (P201.1),\babonnés?\b,"[2, 3, 4, 5, 6, 8, 12]","['Je ne trouve pas.', '11,06 %', ""Selon l'extrait, je ne trouve pas"", 'Je ne trouve pas.', 'Je ne trouve pas.', '100%', '100']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P201.1,Quelle est la valeur de l'indicateur P201.1,\bP201.1s?\b,"[8, 12]","['100%', '100']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P201.1,Quelle est le taux de desserte du réseau d'assainissement (P201.1),\bdessertes?\b,"[8, 12]","['100%', '100']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P202.2B,Quel est le niveau de connaissance et de gestion du réseau de collecte des eaux usées,\bconnaissances?\b,"[8, 9, 12]","['Je ne trouve pas.', 'Je ne trouve pas.', '75']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P202.2B,Quel est le niveau de connaissance et de gestion du réseau de collecte des eaux usées (P202.2B),\bconnaissances?\b,"[8, 9, 12]","['Je ne trouve pas.', 'Je ne trouve pas.', '75']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P202.2B,Quelle est la valeur de l'indicateur P202.2B,\bP202.2Bs?\b,[12],['75']
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P203.3,Quel est le taux de conformité de la collecte des effluents (P203.3),\bcollectes?\b,"[5, 6, 9, 10, 12]","['Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', '100%', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P203.3,Quelle est la valeur de l'indicateur P203.3,\bP203.3s?\b,"[10, 12]","['100%', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P204.3,Quel est le taux de conformité des équipements d'épuration (P204.3),\bconformités?\b,"[10, 12]","['OUI', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P204.3,Quelle est la valeur de l'indicateur P204.3,\bP204.3s?\b,"[10, 12]","['100%', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P205.3,Quel est le taux de conformité de la performance des ouvrages d'épuration (P205.3),\bconformités?\b,"[10, 12]","['OUI', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P205.3,Quelle est la valeur de l'indicateur P205.3,\bP205.3s?\b,"[10, 12]","['100%', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P206.3,Quel est le taux de conformité des boues évacuées (P206.3),\bboues?\b,"[2, 5, 10, 12]","['Je ne trouve pas.', 'Je ne trouve pas.', '100', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P206.3,Quelle est la valeur de l'indicateur P206.3,\bP206.3s?\b,[10],['100']
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P207.0,Quel est le montant des actions de solidarité aux usagers (P207.0),\bsolidarités?\b,[12],"['0,00 EUR/m3']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P207.0,Quelle est la valeur de l'indicateur P207.0,\bP207.0s?\b,[12],"['0,00']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P251.1,Quel est le nombre de demandes d'indemnisation suite à un débordement d'effluents chez les usagers (P251.1),\bdébordements?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P251.1,Quelle est la valeur de l'indicateur P251.1,\bP251.1s?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P252.2,Quel est le nombre de points de curage fréquents du réseau (P252.2),\bcurages?\b,[9],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P252.2,Quel est le nombre de points noirs du réseau (P252.2),\bnoirs?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P252.2,Quelle est la valeur de l'indicateur P252.2,\bP252.2s?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P253.2,Quel est le taux de renouvellement du réseau d'assainissement collectif,\brenouvellements?\b,"[2, 9]","['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P253.2,Quel est le taux de renouvellement du réseau d'assainissement collectif (P253.2),\brenouvellements?\b,"[2, 9]","['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P253.2,Quelle est la valeur de l'indicateur P253.2,\bP253.2s?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P254.3,Quel est le taux de conformité des performances des équipements d'épuration au regard des prescriptions d'autosurveillance (P254.3),\bconformités?\b,"[10, 12]","['Je ne trouve pas.', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P254.3,Quelle est la valeur de l'indicateur P254.3,\bP254.3s?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P255.3,Quel est le niveau de connaissance des rejets au milieu naturel (P255.3),\brejets?\b,"[2, 5]","['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P255.3,Quelle est la valeur de l'indicateur P255.3,\bP255.3s?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P256.2,Quel est le nombre d'années d'endettement du service (P256.2),\bendettements?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P256.2,Quelle est la durée d’extinction de la dette de la collectivité (P256.2),\bendettements?\b|\bdettes?\b,"[11, 12]","['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P256.2,Quelle est la valeur de l'indicateur P256.2,\bP256.2s?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P257.0,Quel est le taux d'impayés sur les factures d'assainissement (P257.0),\bimpayés?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P257.0,Quelle est la valeur de l'indicateur P257.0,\bP257.0s?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P258.1,Quel est le taux de réclamations (P258.1),\bréclamations?\b,[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Marthon_AC_2021.pdf,P258.1,Quelle est la valeur de l'indicateur P258.1,\bP258.1s?\b,[],[]

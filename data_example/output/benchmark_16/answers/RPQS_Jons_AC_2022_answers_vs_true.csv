@@ -1,0 +1,20 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,true_sispea_value,true_pdf_value,final_answer,filtered_answer_list,clean_answer_list,concat_answer_list
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,D201.0,1419.0,1419.0,1419.0,"[1419.0, 1419.0, 'je ne trouve pas']","[1419.0, 'je ne trouve pas', 1419.0]","['1 419', 'Je ne trouve pas.', '1 419']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,D202.0,0.0,0.0,0.0,"[0.0, 0.0]","[0.0, 0.0]","['0', '0']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,D203.0,0.0,,je ne trouve pas,[],[],[]
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,D204.0,1.5,1.501,1.501,"[1.501, 1.501, 1.2045, 1.501, 'je ne trouve pas']","['je ne trouve pas', 1.501, 1.501, 1.2045, 1.501]","['Je ne trouve pas.', '1,5010 EUR', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', '1,5010 EUR', 'Je ne trouve pas.', 'Je ne trouve pas.', '1,2045', '1,5010 EUR']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P201.1,99.49,96.8,96.8,"[4.3, 96.8, 96.8, 'je ne trouve pas']","[4.3, 'je ne trouve pas', 96.8, 96.8]","['587', '-4,3%', 'Je ne trouve pas.', '96,8 %', '96,8 %', '97,6 %', 'La reponse est : relativement stable par rapport a']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P202.2B,75.0,75.0,75.0,"[75.0, 50.0, 75.0, 50.0, 75.0, 'je ne trouve pas']","[75.0, 50.0, 75.0, 'je ne trouve pas', 50.0, 75.0]","['75/120', ""Selon l'extrait, l'indicate"", '50/120', '75/120', ""Je ne trouve pas. L'indicateur"", '50/120', '75/120']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P203.3,0.0,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P204.3,0.0,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P205.3,0.0,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P206.3,,,je ne trouve pas,[],[],[]
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P207.0,0.015,0.015,0.015,[0.015],[0.015],"['0,015 EUR/m3', '0,0115 EUR/m3']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P251.1,0.0,0.0,0.0,"[0.0, 0.0]","[0.0, 0.0]","['0%0', '0%0']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P252.2,7.7,7.7,7.7,"[7.7, 7.7, 7.7, 'je ne trouve pas']","['je ne trouve pas', 7.7, 7.7, 7.7]","['Je ne trouve pas.', '7,7 %', '7,7 %', '7,7 %']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P253.2,0.0,0.0,0.0,"[0.0, 0.0, 0.0, 'je ne trouve pas']","['je ne trouve pas', 0.0, 0.0, 0.0]","['Je ne trouve pas.', '0,0 %', 'Je ne trouve pas.', '0,0 %', '0,0 %']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P254.3,0.0,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P255.3,50.0,50.0,20.0,"[20.0, 50.0, 20.0, 'je ne trouve pas']","['je ne trouve pas', 20.0, 50.0, 20.0]","['Je ne trouve pas.', '20', '50/120', '20']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P256.2,0.0,0.03,0.03,[0.03],[0.03],"['0,03 an.']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P257.0,1.94,1.94,1.94,"[1.94, 1.0, 'je ne trouve pas']","[1.94, 'je ne trouve pas', 1.0]","['1,94 %', 'Je ne trouve pas.', '1,00 %']"
+benchmark_16,2022,assainissement collectif,RPQS_Jons_AC_2022.pdf,P258.1,0.0,0.0,0.0,"[0.0, 0.0]","[0.0, 0.0]","['0%0', '0%0']"
