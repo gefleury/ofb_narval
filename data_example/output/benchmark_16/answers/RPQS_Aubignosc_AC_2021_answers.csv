@@ -1,0 +1,20 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,final_answer,filtered_answer_list,clean_answer_list,concat_answer_list
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,D201.0,489.0,"[489.0, 489.0, 'je ne trouve pas']","[489.0, 489.0, 'je ne trouve pas']","['489 habitants', '489', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,D202.0,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,D203.0,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,D204.0,0.2865,"[0.2865, 0.2865, 'je ne trouve pas']","['je ne trouve pas', 0.2865, 0.2865]","['Je ne trouve pas.', 'Je ne trouve pas.', '0,2865 EUR/m3', 'Je ne trouve pas.', ""Selon l'extrait, je ne trouve pas"", 'Je ne trouve pas.', '0.2865 EUR/m3', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P201.1,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P202.2B,40.0,"[40.0, 40.0, 'je ne trouve pas']","[40.0, 40.0, 'je ne trouve pas']","['40', '40', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P203.3,100.0,"[100.0, 6.61, 'je ne trouve pas']","[100.0, 'je ne trouve pas', 6.61]","['100%', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', '6,61%']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P204.3,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P205.3,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P206.3,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P207.0,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P251.1,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P252.2,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P253.2,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P254.3,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P255.3,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P256.2,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P257.0,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Aubignosc_AC_2021.pdf,P258.1,je ne trouve pas,[],[],[]

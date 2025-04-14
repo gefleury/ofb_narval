@@ -1,0 +1,40 @@
+,question,mot,indic,competence
+0,Quelle est la valeur de l'indicateur P205.3,P205.3,P205.3,assainissement collectif
+1,Quelle est la valeur de l'indicateur P203.3,P203.3,P203.3,assainissement collectif
+2,Quelle est la valeur de l'indicateur P204.3,P204.3,P204.3,assainissement collectif
+3,Quelle est la valeur de l'indicateur P253.2,P253.2,P253.2,assainissement collectif
+4,Quel est le taux de renouvellement du réseau d'assainissement collectif (P253.2),renouvellement,P253.2,assainissement collectif
+5,Quelle est la valeur de l'indicateur P202.2,P202.2,P202.2B,assainissement collectif
+6,Quelle est la valeur de l'indicateur P202.2B ,P202.2B,P202.2B,assainissement collectif
+7,Quel est le niveau de connaissance et de gestion patrimoniale du réseau de collecte des eaux usées ,connaissance,P202.2B,assainissement collectif
+8,Quelle est la valeur de l'indicateur P255.3,P255.3,P255.3,assainissement collectif
+9,Quel est le niveau de connaissance des rejets au milieu naturel (P255.3),connaissance,P255.3,assainissement collectif
+10,Quelle est la valeur de l'indicateur P258.1,P258.1,P258.1,assainissement collectif
+11,Quel est le taux de réclamations (P258.1),réclamation,P258.1,assainissement collectif
+12,Quelle est la valeur de l'indicateur D202.0,D202.0,D202.0,assainissement collectif
+13,Quel est le nombre d'autorisations de déversement d'effluents d'établissements industriels (D202.0),autorisation,D202.0,assainissement collectif
+14,Quelle est la valeur de l'indicateur P206.3,P206.3,P206.3,assainissement collectif
+15,Quel est le taux de conformité des boues évacuées (P206.3),boue,P206.3,assainissement collectif
+16,Quelle est la valeur de l'indicateur D203.0,D203.0,D203.0,assainissement collectif
+17,"Quelle est la quantité de boues évacuées (D203.0), et non pas la quantité de boues produites,",boue,D203.0,assainissement collectif
+18,Quelle est la valeur de l'indicateur P201.1,P201.1,P201.1,assainissement collectif
+19,Quel est le taux de desserte du réseau d'assainissement (P201.1),desserte,P201.1,assainissement collectif
+20,Quelle est la valeur de l'indicateur P254.3,P254.3,P254.3,assainissement collectif
+21,Quelle est la valeur de l'indicateur P207.0,P207.0,P207.0,assainissement collectif
+22,Quelle est la somme des montants des abandons de créance et des versements à un fonds de solidarité (P207.0),créance,P207.0,assainissement collectif
+23,Quel est le montant des actions de solidarité aux usagers (P207.0),solidarité,P207.0,assainissement collectif
+24,Quelle est la valeur de l'indicateur P256.2,P256.2,P256.2,assainissement collectif
+25,Quel est le nombre d'années d'endettement du service (P256.2),endettement,P256.2,assainissement collectif
+26,Quelle est la durée d’extinction de la dette de la collectivité (P256.2),endettement,P256.2,assainissement collectif
+27,Quelle est la durée d’extinction de la dette de la collectivité (P256.2),dette,P256.2,assainissement collectif
+28,Quelle est la valeur de l'indicateur D204.0,D204.0,D204.0,assainissement collectif
+29,Quel est le prix au m3 du service d'assainissement de l'eau pour une consommation de 120m3 (D204.0),120\s*m\s*3,D204.0,assainissement collectif
+30,Quelle est la valeur de l'indicateur P257.0,P257.0,P257.0,assainissement collectif
+31,Quel est le taux d'impayés sur les factures d'assainissement (P257.0),impayé,P257.0,assainissement collectif
+32,Quelle est la valeur de l'indicateur P252.2,P252.2,P252.2,assainissement collectif
+33,Quel est le nombre de points de curage fréquents du réseau (P252.2),curage,P252.2,assainissement collectif
+34,Quel est le nombre de points noirs du réseau (P252.2),noir,P252.2,assainissement collectif
+35,Quelle est la valeur de l'indicateur P251.1,P251.1,P251.1,assainissement collectif
+36,Quel est le nombre de demandes d'indemnisation suite à un débordement d'effluents chez les usagers (P251.1),débordement,P251.1,assainissement collectif
+37,Quelle est la valeur de l'indicateur D201.0,D201.0,D201.0,assainissement collectif
+38,Quel le nombre d'habitants desservis par le réseau d'assainissement collectif (D201.0),habitant,D201.0,assainissement collectif

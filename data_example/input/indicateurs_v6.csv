@@ -1,0 +1,58 @@
+﻿,code_ip,id_competence,name_competence,type_ip,theme,id_unit,symbol_unit,name_unit,format_ip,decimal_ip,min_warning_ip,max_warning_ip,min_critic_ip,max_critic_ip,validity_start,validity_end,libelle_grand_public,unit_tag,prompt_instruction
+0,P205.3,2,assainissement collectif,Performance,Epuration,1,%,%,%f,0,0.0,100.0,0.0,100.0,,,Conformité de la performance des ouvrages d’épuration du service aux prescriptions nationales issues de la directive ERU,en %,"
+- Ne confonds pas avec d'autres taux de conformité dans l'extrait. En particulier, l'indicateur recherché n'est pas P204.3 et n'est pas P254.3. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+1,P203.3,2,assainissement collectif,Performance,Collecte,1,%,%,%f,0,0.0,100.0,0.0,100.0,,,Conformité de la collecte des effluents aux prescriptions définies aux prescriptions nationales issues de la directive ERU,en %,"
+- Ne confonds pas avec d'autres taux de conformité dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'. "
+2,P204.3,2,assainissement collectif,Performance,Epuration,1,%,%,%f,0,0.0,100.0,0.0,100.0,,,Conformité des équipements d’épuration aux prescriptions nationales issues de la directive ERU,en %,"
+- Ne confonds pas avec d'autres taux de conformité dans l'extrait. En particulier, l'indicateur recherché n'est pas P205.3 et n'est pas P254.3. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+3,P253.2,2,assainissement collectif,Performance,Reseau,1,%,%,%f,2,0.0,3.0,0.0,100.0,,,Renouvellement des réseaux de collecte des eaux usées,en %,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+4,P103.2A,1,eau potable,Performance,Reseau,2,unité,unité,%d,0,0.0,100.0,0.0,100.0,,2012.0,Connaissance et gestion patrimoniale des réseaux d'eau potable (jusqu'à 2012),sans unité,
+5,P202.2A,2,assainissement collectif,Performance,Reseau,2,unité,unité,%d,0,0.0,100.0,0.0,100.0,,2012.0,Connaissance et gestion patrimoniale des réseaux de collecte des eaux usées (jusqu'à 2012),sans unité,
+6,P152.1,1,eau potable,Performance,Abonnes,1,%,%,%f,1,90.0,100.0,0.0,100.0,,,Respect du délai contractuel de branchement des nouveaux abonnés,en %,
+7,P301.3,3,assainissement non collectif,Performance,Conformite,1,%,%,%f,1,0.0,100.0,0.0,100.0,,,Conformité des dispositifs d'assainissement non collectif,en %,
+8,P101.1,1,eau potable,Performance,QualiteEau,1,%,%,%f,1,25.0,100.0,0.0,100.0,,,Conformité microbiologique de l’eau au robinet,en %,
+9,P102.1,1,eau potable,Performance,QualiteEau,1,%,%,%f,1,25.0,100.0,0.0,100.0,,,Conformité physico-chimique de l’eau au robinet,en %,
+10,P202.2B,2,assainissement collectif,Performance,Reseau,121,points,points,%d,0,0.0,120.0,0.0,120.0,2013.0,,Connaissance et gestion patrimoniale des réseaux de collecte des eaux usées,en points,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+11,P255.3,2,assainissement collectif,Performance,Collecte,2,unité,unité,%d,0,0.0,120.0,0.0,120.0,,,Connaissance des rejets au milieu naturel,en points,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+12,P258.1,2,assainissement collectif,Performance,Abonnes,10,nb/1000ab,nb/1000ab,%f,2,0.0,20.0,0.0,100000000.0,,,Taux de réclamations,en taux pour 1000 abonnés,
+13,P153.2,1,eau potable,Performance,GestionFinanciere,4,an,an,%f,1,0.0,30.0,0.0,135.0,,,Durée d'extinction de la dette de la collectivité,en nombre d'années,
+14,P155.1,1,eau potable,Performance,Abonnes,10,nb/1000ab,nb/1000ab,%f,2,0.0,50.0,0.0,100000000.0,,,Taux de réclamations,en taux pour 1000 abonnés,
+15,D202.0,2,assainissement collectif,Descriptive,Reseau,2,unité,unité,%d,0,0.0,1000000000.0,0.0,1000000000.0,,,Nombre d'autorisations de déversement d'effluents d'établissements industriels,sans unité,"
+- S'il est indiqué dans l'extrait qu'aucune autorisation de déversement d'effluents n'a été accordée, réponds '0'."
+16,D102.0,1,eau potable,Descriptive,Abonnes,14,€/m³,€/m³,%f,2,1.0,4.0,0.0,30.0,,,Prix du service au m³,en EUR/m3,
+17,P206.3,2,assainissement collectif,Performance,Boue,1,%,%,%f,1,9.0,100.0,0.0,100.0,,,Boues évacuées selon des filières conformes,en %,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'.
+- La réponse à trouver n'est pas exprimée en tonnes de matières sèches (tMS)."
+18,D203.0,2,assainissement collectif,Descriptive,Boue,12,tMS,tMS,%f,1,0.0,1000000000.0,0.0,1000000000.0,,,Quantité de boues issues des ouvrages d'épuration,en tonnes de matières sèches (tMS),
+19,P201.1,2,assainissement collectif,Performance,Abonnes,1,%,%,%f,2,50.0,100.0,0.0,100.0,,,Taux de desserte par des réseaux de collecte des eaux usées,en %,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+20,P103.2B,1,eau potable,Performance,Reseau,121,points,points,%d,0,0.0,120.0,0.0,120.0,2013.0,,Connaissance et gestion patrimoniale des réseaux d'eau potable,en points,
+21,P154.0,1,eau potable,Performance,GestionFinanciere,1,%,%,%f,2,0.0,5.0,0.0,100.0,,,Taux d'impayés sur les factures d'eau,en %,
+22,P106.3,1,eau potable,Performance,Reseau,9,m³/km/j,m³/km/j,%f,1,0.1,20.0,0.0,200.0,,,Pertes en réseau,en m3/km/j,
+23,P105.3,1,eau potable,Performance,Reseau,9,m³/km/j,m³/km/j,%f,1,0.1,20.0,0.0,200.0,,,Volumes non comptés,en m3/km/j,
+24,P254.3,2,assainissement collectif,Performance,Epuration,1,%,%,%f,1,0.0,100.0,0.0,100.0,,,Conformité des performances des équipements d'épuration au regard des prescriptions de l'acte individuel,en %,"
+- Ne confonds pas avec d'autres taux de conformité dans l'extrait. En particulier, l'indicateur recherché n'est pas P204.3 et n'est pas P205.3. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+25,P207.0,2,assainissement collectif,Performance,GestionFinanciere,14,€/m³,€/m³,%f,4,0.0,0.1,0.0,50.0,,,Montant des actions de solidarité,en EUR/m3,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+26,D151.0,1,eau potable,Descriptive,Abonnes,81,j ouvrable,jour ouvrable,%f,1,1.0,10.0,0.0,100000000.0,,,Délai contractuel maximal de branchement des nouveaux abonnés,en jours ouvrables,
+27,P256.2,2,assainissement collectif,Performance,GestionFinanciere,4,an,an,%f,1,0.0,30.0,0.0,99.0,,,Durée d’extinction de la dette de la collectivité,en nombre d'années,"
+- S'il est indiqué dans l'extrait que la dette de la collectivité est nulle (0 euros), réponds '0'."
+28,D301.0,3,assainissement non collectif,Descriptive,Service,5,hab,hab,%d,0,0.0,100000000.0,0.0,100000000.0,,,Nombre d'habitants desservis,en nombre d'habitants,
+29,D204.0,2,assainissement collectif,Descriptive,Abonnes,14,€/m³,€/m³,%f,2,0.5,3.0,0.0,30.0,,,Prix TTC du service au m³,en EUR/m3,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'.
+- Sa valeur pour l'année {year} peut être indiquée dans l'extrait au 1er janvier de l'année {year_plus_1} mais n'est pas celle au 1er janvier de l'année {year}."
+30,D302.0,3,assainissement non collectif,Descriptive,Service,2,unité,unité,%d,0,0.0,140.0,0.0,140.0,,,Mise en œuvre de l'assainissement non collectif,sans unité,
+31,P151.1,1,eau potable,Performance,Abonnes,10,nb/1000ab,nb/1000ab,%f,2,0.0,20.0,0.0,200.0,,,Fréquence des interruptions de service non programmées,en taux pour 1000 abonnés,
+32,P257.0,2,assainissement collectif,Performance,GestionFinanciere,1,%,%,%f,2,0.0,5.0,0.0,100.0,,,Taux d’impayés sur les factures d’eau,en %,"
+- Ne confonds pas avec d'autres valeurs {unit_tag} dans l'extrait. Si tu ne trouves pas l'indicateur recherché, réponds '{no_answer_tag}'."
+33,P108.3,1,eau potable,Performance,QualiteEau,1,%,%,%f,1,20.0,100.0,0.0,100.0,,,Protection de la ressource en eau,en %,
+34,P104.3,1,eau potable,Performance,Reseau,1,%,%,%f,1,50.0,95.0,0.0,100.0,,,Rendement du réseau de distribution,en %,
+35,D101.0,1,eau potable,Descriptive,Abonnes,5,hab,hab,%d,0,0.0,100000000.0,0.0,100000000.0,,,Nombre d'habitants desservis,en nombre d'habitants,
+36,P107.2,1,eau potable,Performance,Reseau,1,%,%,%f,2,0.0,3.0,0.0,100.0,,,Renouvellement des réseaux d'eau potable,en %,
+37,P252.2,2,assainissement collectif,Performance,Reseau,11,nb/100km,nb/100km,%f,1,0.0,50.0,0.0,100000000.0,,,Points de curage fréquent du réseau,en taux pour 100 km,
+38,P251.1,2,assainissement collectif,Performance,Abonnes,61,nb/1000hab,nb/1000hab,%f,3,0.0,3.0,0.0,100000000.0,,,Débordements d'effluents chez les usagers,en taux pour 1000 habitants,
+39,P109.0,1,eau potable,Performance,GestionFinanciere,14,€/m³,€/m³,%f,4,0.0,0.1,0.0,50.0,,,Montant des actions de solidarité,en EUR/m3,
+40,D201.0,2,assainissement collectif,Descriptive,Abonnes,5,hab,hab,%d,0,0.0,100000000.0,0.0,100000000.0,,,Nombre d'habitants desservis,en nombre d'habitants,

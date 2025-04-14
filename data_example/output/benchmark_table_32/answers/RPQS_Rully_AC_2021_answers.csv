@@ -1,0 +1,20 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,final_answer,final_answer_source,filtered_answer_list,clean_answer_list,concat_answer_list
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,D201.0,756.0,table extraction,"[(756.0, 'source: table extraction')]","[(756.0, 'source: table extraction')]","[('NC', 'source: table extraction'), ('756', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,D202.0,0.0,table extraction,"[(0.0, 'source: table extraction'), (0.0, 'source: table extraction')]","[(0.0, 'source: table extraction'), (0.0, 'source: table extraction')]","[('0', 'source: table extraction'), ('0', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,D203.0,0.0,table extraction,"[(0.0, 'source: table extraction'), (0.0, 'source: table extraction')]","[(0.0, 'source: table extraction'), (0.0, 'source: table extraction')]","[('0,00 tMS', 'source: table extraction'), ('0,00 tMS', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,D204.0,4.11,table extraction,"[(4.11, 'source: table extraction')]","[(4.11, 'source: table extraction')]","[('4,11 €/m³', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P201.1,100.0,table extraction,"[(100.0, 'source: table extraction')]","[(100.0, 'source: table extraction')]","[('100,00%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P202.2B,77.0,table extraction,"[(77.0, 'source: table extraction')]","[(77.0, 'source: table extraction')]","[('77 / 120', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P203.3,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P204.3,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P205.3,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P206.3,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P207.0,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P251.1,0.0,table extraction,"[(0.0, 'source: table extraction')]","[(0.0, 'source: table extraction')]","[('0,00%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P252.2,0.0,table extraction,"[(0.0, 'source: table extraction')]","[(0.0, 'source: table extraction')]","[('0,00', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P253.2,0.0,table extraction,"[(0.0, 'source: table extraction')]","[(0.0, 'source: table extraction')]","[('0,00%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P254.3,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P255.3,90.0,table extraction,"[(90.0, 'source: table extraction')]","[(90.0, 'source: table extraction')]","[('90 / 120', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P256.2,22.25,table extraction,"[(22.25, 'source: table extraction')]","[(22.25, 'source: table extraction')]","[('22,25', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P257.0,0.47,table extraction,"[(0.47, 'source: table extraction')]","[(0.47, 'source: table extraction')]","[('0,47%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Rully_AC_2021.pdf,P258.1,0.0,table extraction,"[(0.0, 'source: table extraction')]","[(0.0, 'source: table extraction')]","[('0,00%', 'source: table extraction')]"

@@ -1,0 +1,39 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,question,keyword_regex,relevant_pages,table_relevant_pages,answer_list_from_language_model,answer_list_from_tables,answer_list
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D201.0,Quel le nombre d'habitants desservis par le réseau d'assainissement collectif (D201.0),\bhabitants?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D201.0,Quelle est la valeur de l'indicateur D201.0,\bD201.0s?\b,[],"[[13, 0]]",,[' 275'],"[(' 275', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D202.0,Quel est le nombre d'autorisations de déversement d'effluents d'établissements industriels (D202.0),\bautorisations?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D202.0,Quelle est la valeur de l'indicateur D202.0,\bD202.0s?\b,[],"[[13, 0]]",,[' 0'],"[(' 0', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D203.0,"Quelle est la quantité de boues évacuées (D203.0), et non pas la quantité de boues produites,",\bboues?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D203.0,Quelle est la valeur de l'indicateur D203.0,\bD203.0s?\b,[],"[[13, 0]]",,['0'],"[('0', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D204.0,Quel est le prix au m3 du service d'assainissement de l'eau pour une consommation de 120m3 (D204.0),\b120\s*m\s*3s?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D204.0,Quelle est la valeur de l'indicateur D204.0,\bD204.0s?\b,[],"[[13, 0]]",,"['1,62']","[('1,62', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P201.1,Quel est le taux de desserte du réseau d'assainissement (P201.1),\bdessertes?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P201.1,Quelle est la valeur de l'indicateur P201.1,\bP201.1s?\b,[],"[[13, 0]]",,"['97,78%']","[('97,78%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P202.2B,Quel est le niveau de connaissance et de gestion patrimoniale du réseau de collecte des eaux usées ,\bconnaissances?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P202.2B,Quelle est la valeur de l'indicateur P202.2,\bP202.2s?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P202.2B,Quelle est la valeur de l'indicateur P202.2B ,\bP202.2Bs?\b,[],"[[10, 0], [13, 0]]",,"['Not found', ' 107']","[('Not found', 'source: table extraction'), (' 107', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P203.3,Quelle est la valeur de l'indicateur P203.3,\bP203.3s?\b,[],"[[13, 0]]",,[' 100%'],"[(' 100%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P204.3,Quelle est la valeur de l'indicateur P204.3,\bP204.3s?\b,[],"[[13, 0]]",,[' 100%'],"[(' 100%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P205.3,Quelle est la valeur de l'indicateur P205.3,\bP205.3s?\b,[],"[[13, 0]]",,[' 100%'],"[(' 100%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P206.3,Quel est le taux de conformité des boues évacuées (P206.3),\bboues?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P206.3,Quelle est la valeur de l'indicateur P206.3,\bP206.3s?\b,[],"[[13, 0]]",,[' ____%'],"[(' ____%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P207.0,Quel est le montant des actions de solidarité aux usagers (P207.0),\bsolidarités?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P207.0,Quelle est la somme des montants des abandons de créance et des versements à un fonds de solidarité (P207.0),\bcréances?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P207.0,Quelle est la valeur de l'indicateur P207.0,\bP207.0s?\b,[],"[[13, 0]]",,[' 0'],"[(' 0', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P251.1,Quel est le nombre de demandes d'indemnisation suite à un débordement d'effluents chez les usagers (P251.1),\bdébordements?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P251.1,Quelle est la valeur de l'indicateur P251.1,\bP251.1s?\b,[],[],,[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P252.2,Quel est le nombre de points de curage fréquents du réseau (P252.2),\bcurages?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P252.2,Quel est le nombre de points noirs du réseau (P252.2),\bnoirs?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P252.2,Quelle est la valeur de l'indicateur P252.2,\bP252.2s?\b,[],[],,[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P253.2,Quel est le taux de renouvellement du réseau d'assainissement collectif (P253.2),\brenouvellements?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P253.2,Quelle est la valeur de l'indicateur P253.2,\bP253.2s?\b,[],[],,[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P254.3,Quelle est la valeur de l'indicateur P254.3,\bP254.3s?\b,[],[],,[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P255.3,Quel est le niveau de connaissance des rejets au milieu naturel (P255.3),\bconnaissances?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P255.3,Quelle est la valeur de l'indicateur P255.3,\bP255.3s?\b,[],[],,[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P256.2,Quel est le nombre d'années d'endettement du service (P256.2),\bendettements?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P256.2,Quelle est la durée d’extinction de la dette de la collectivité (P256.2),\bendettements?\b|\bdettes?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P256.2,Quelle est la valeur de l'indicateur P256.2,\bP256.2s?\b,[],[],,[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P257.0,Quel est le taux d'impayés sur les factures d'assainissement (P257.0),\bimpayés?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P257.0,Quelle est la valeur de l'indicateur P257.0,\bP257.0s?\b,[],[],,[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P258.1,Quel est le taux de réclamations (P258.1),\bréclamations?\b,[],,,,[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P258.1,Quelle est la valeur de l'indicateur P258.1,\bP258.1s?\b,[],[],,[],[]

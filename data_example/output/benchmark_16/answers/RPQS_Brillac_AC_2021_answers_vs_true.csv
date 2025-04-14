@@ -1,0 +1,20 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,true_sispea_value,true_pdf_value,final_answer,filtered_answer_list,clean_answer_list,concat_answer_list
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,D201.0,360.0,360.0,360.0,"[360.0, 360.0, 360.0, 'je ne trouve pas']","[360.0, 'je ne trouve pas', 360.0, 360.0]","['360', 'Je ne trouve pas.', 'Je ne trouve pas.', '360', '360']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,D202.0,0.0,0.0,0.0,"[0.0, 0.0]","[0.0, 0.0]","['0', '0']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,D203.0,0.0,0.0,0.0,"[0.0, 0.0, 0.0, 0.0, 'je ne trouve pas']","[0.0, 'je ne trouve pas', 0.0, 0.0, 0.0]","['0,00 tMS', 'Je ne trouve pas.', '0,00 tMS', '0,00 tMS', '0,00 tMS']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,D204.0,2.04,2.04,2.04,"[2.04, 2.04, 2.04, 'je ne trouve pas']","['je ne trouve pas', 2.04, 2.04, 2.04]","['Je ne trouve pas.', '2,04 EUR/m3', ""Selon l'extrait, je ne trouve pas"", '2,04 EUR/m3', '2,04 EUR/m3']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P201.1,100.0,100.0,100.0,"[3.14, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 'je ne trouve pas']","[3.14, 'je ne trouve pas', 100.0, 100.0, 100.0, 100.0, 100.0, 100.0]","['-3,14 %', 'Je ne trouve pas.', 'Je ne trouve pas.', 'Je ne trouve pas.', '100%', '100', '100%', '100', '100%', '100 %']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P202.2B,73.0,73.0,73.0,"[73.0, 73.0, 73.0, 'je ne trouve pas']","['je ne trouve pas', 73.0, 73.0, 73.0]","['Je ne trouve pas.', 'Je ne trouve pas.', '73', 'Je ne trouve pas.', 'Je ne trouve pas.', '73', '73']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P203.3,100.0,100.0,100.0,"[5.17, 100.0, 100.0, 100.0, 100.0, 'je ne trouve pas']","[5.17, 'je ne trouve pas', 100.0, 100.0, 100.0, 100.0]","['5,17%', 'Je ne trouve pas.', 'Je ne trouve pas.', '100%', '100%', '100%', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P204.3,100.0,100.0,100.0,"[100.0, 100.0, 100.0, 100.0, 'je ne trouve pas']","[100.0, 'je ne trouve pas', 100.0, 100.0, 100.0]","['100%', 'Je ne trouve pas.', '100%', '100%', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P205.3,100.0,100.0,100.0,"[100.0, 100.0, 100.0, 100.0, 'je ne trouve pas']","[100.0, 'je ne trouve pas', 100.0, 100.0, 100.0]","['100%', 'Je ne trouve pas.', '100%', '100%', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P206.3,100.0,100.0,100.0,"[100.0, 'je ne trouve pas']","['je ne trouve pas', 100.0]","['Je ne trouve pas.', '100', 'Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P207.0,0.0,0.0,0.0,"[0.0, 0.0]","[0.0, 0.0]","['0,00 EUR/m3', '0,00 EUR/m3']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P251.1,,,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P252.2,,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P253.2,,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P254.3,,,100.0,"[100.0, 100.0, 'je ne trouve pas']","[100.0, 'je ne trouve pas', 100.0]","['100%', 'Je ne trouve pas.', '100%']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P255.3,,,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],['Je ne trouve pas.']
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P256.2,,0.0,je ne trouve pas,['je ne trouve pas'],['je ne trouve pas'],"['Je ne trouve pas.', 'Je ne trouve pas.']"
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P257.0,,,je ne trouve pas,[],[],[]
+benchmark_16,2021,assainissement collectif,RPQS_Brillac_AC_2021.pdf,P258.1,,,je ne trouve pas,[],[],[]

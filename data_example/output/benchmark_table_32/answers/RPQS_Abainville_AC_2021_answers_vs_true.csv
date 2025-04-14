@@ -1,0 +1,20 @@
+﻿benchmark_version,year,competence,pdf_name,indicator,true_sispea_value,true_pdf_value,final_answer,final_answer_source,filtered_answer_list,clean_answer_list,concat_answer_list
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D201.0,275.0,275.0,275.0,table extraction,"[(275.0, 'source: table extraction')]","[(275.0, 'source: table extraction')]","[(' 275', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D202.0,0.0,0.0,0.0,table extraction,"[(0.0, 'source: table extraction')]","[(0.0, 'source: table extraction')]","[(' 0', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D203.0,0.0,0.0,0.0,table extraction,"[(0.0, 'source: table extraction')]","[(0.0, 'source: table extraction')]","[('0', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,D204.0,1.62,1.62,1.62,table extraction,"[(1.62, 'source: table extraction')]","[(1.62, 'source: table extraction')]","[('1,62', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P201.1,97.78,97.78,97.78,table extraction,"[(97.78, 'source: table extraction')]","[(97.78, 'source: table extraction')]","[('97,78%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P202.2B,107.0,107.0,107.0,table extraction,"[(107.0, 'source: table extraction')]","[(107.0, 'source: table extraction')]","[('Not found', 'source: table extraction'), (' 107', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P203.3,100.0,100.0,100.0,table extraction,"[(100.0, 'source: table extraction')]","[(100.0, 'source: table extraction')]","[(' 100%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P204.3,100.0,100.0,100.0,table extraction,"[(100.0, 'source: table extraction')]","[(100.0, 'source: table extraction')]","[(' 100%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P205.3,100.0,100.0,100.0,table extraction,"[(100.0, 'source: table extraction')]","[(100.0, 'source: table extraction')]","[(' 100%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P206.3,,,je ne trouve pas,undefined,[],[],"[(' ____%', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P207.0,0.0,0.0,0.0,table extraction,"[(0.0, 'source: table extraction')]","[(0.0, 'source: table extraction')]","[(' 0', 'source: table extraction')]"
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P251.1,,,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P252.2,,,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P253.2,,,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P254.3,,,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P255.3,,,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P256.2,,,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P257.0,,,je ne trouve pas,undefined,[],[],[]
+benchmark_table_32,2021,assainissement collectif,RPQS_Abainville_AC_2021.pdf,P258.1,,,je ne trouve pas,undefined,[],[],[]
